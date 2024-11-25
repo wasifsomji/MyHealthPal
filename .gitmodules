@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/MasaKagami/myhealthpal--frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Erik-Cupsa/MyHealthPal-Backend.git
